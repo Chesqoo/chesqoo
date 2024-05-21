@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
-<h3 align="center">An AI/ML and Big Data MsC student and Software Engineer from Spain</h3>
+<h3 align="center">An AI/ML + Big Data MsC student and Software Engineer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chesqoo&label=Profile%20views&color=0e75b6&style=flat" alt="Chesqoo" /> </p>
 
