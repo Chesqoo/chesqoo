@@ -1,5 +1,5 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi! I'm JAVI
-### <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> Software Engineer specialized in AI/ML, Big Data, and Cybersecurity
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi! I'm Javi
+### <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> Machine Learning Engineer, working in ML Security
 
 - 🚀 Always building, learning, and exploring new ideas.  
 - 📍 Based in Madrid, Spain.  
