@@ -3,7 +3,7 @@
 
 - 🚀 Always building, learning, and exploring new ideas.  
 - 📍 Based in Madrid, Spain.  
-- 🌍 Planning to move to Switzerland.  
+- 🌍 Focused on growing.
 - 📫 Contact me at **[francisco.j.moralessp@gmail.com](mailto:francisco.j.moralessp@gmail.com)**
 
 ![](https://komarev.com/ghpvc/?username=Chesqoo&style=for-the-badge)
