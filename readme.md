@@ -1,44 +1,48 @@
-<h1 align="center">Hi 👋, I'm Javier</h1>
-<h3 align="center">Software Engineer specialized in AI/ML, Big Data, and Cybersecurity</h3>
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi! I'm JAVI
+### <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> Software Engineer specialized in AI/ML, Big Data, and Cybersecurity
 
+- 🚀 Always building, learning, and exploring new ideas.  
+- 📍 Based in Madrid, Spain.  
+- 🌍 Planning to move to Switzerland.  
+- 📫 Contact me at **[francisco.j.moralessp@gmail.com](mailto:francisco.j.moralessp@gmail.com)**
+
+![](https://komarev.com/ghpvc/?username=Chesqoo&style=for-the-badge)
+
+---
+
+## 🌍 Languages  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chesqoo&label=Profile%20views&color=0e75b6&style=flat" alt="Chesqoo" />
+  🇪🇸 Spanish (Native) &nbsp;&nbsp; 🇬🇧 English (C1 Cambridge) &nbsp;  
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="center">
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
-</p>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Technologies & Tools I use
+| **Languages** | **Web** | **Databases** | **Frameworks/Runtime** | **Mobile** | **Cloud & DevOps** | **Data & AI** |
+|---------------|---------|---------------|------------------------|------------|--------------------|----------------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) | ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white) | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
 
 ---
 
-### 💡 Projects:
-- **[Savings Calculator](https://chesqoo.github.io/savings-calculator/):** A tool designed to help individuals calculate the impact of savings and compound interest, considering taxes. It promotes financial literacy in Spain.
-- **[QRated](https://chesqoo.github.io/qrated/):** A free and easy-to-use QR code generator with logo customization.
-- **Macro-TXTRS:** A work-in-progress app for macro photography enthusiasts (link coming soon).
+## 🧠 Projects
+- **[Savings Calculator](https://chesqoo.github.io/savings-calculator/):** Tool to help calculate compound interest and savings with Spanish tax considerations.
+- **[QRated](https://chesqoo.github.io/qrated/):** Free customizable QR generator for logos and branding.
+- **Macro-TXTRS (WIP):** Macro photography archive + app with user uploads and zoom/download features.
 
 ---
 
-### 📝 Theses:
+## 📄 Theses
 - **[Master's Thesis](https://oa.upm.es/84863/):**  
-  *Building Better Barriers: Evaluating Threats and Crafting Guidelines to Secure AI Code Generators*  
-  This thesis delves into the emerging security risks posed by data poisoning attacks on large language models (LLMs). Through rigorous experiments with state-of-the-art models like Phi3, CodeT5, and CodeGen, it uncovers critical vulnerabilities, including cross-industry effects and the "bleeding" phenomenon where poisoned outputs transcend domains. The findings emphasize the urgent need for robust, resource-efficient defenses, such as prompt-based systems, to safeguard the integrity of LLMs. This work contributes to advancing AI security research, addressing real-world challenges in industries relying on LLMs.
+  *Beyond Trust: Evaluating Targeted Data Poisoning Threats in Large Language Models*  
+  Data poisoning attacks in LLMs, with findings on Phi3, CodeT5, CodeGen. The work highlights cross-domain threats and defenses including banking, education amongst others.
 
-- **[Bachelor's Thesis](https://oa.upm.es/75690/) (only available in Spanish):**  
-  *Desarrollo de Wemon: Una red social innovadora construida con Flutter y APIs REST en un equipo multidisciplinar.*  
-  This thesis presents a comprehensive exploration of software engineering methodologies applied to the front-end development of Wemon, a social network tailored to the Information Society. It highlights the structured approach to converting conceptual designs into user-focused app screens, leveraging REST APIs for state management. Developed collaboratively in a team of 6-8 members, this project showcases the importance of teamwork, user story refinement, and iterative development in building scalable, modern applications.
+- **[Bachelor's Thesis](https://oa.upm.es/75690/):**  
+  *Ingeniería de Software aplicada al desarrollo de aplicaciones multiplataforma en equipos pequeños con Flutter*  
+  Real-world frontend project using REST APIs and Flutter, with agile teamwork in a multi-profile team.
 
 ---
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chesqoo&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chesqoo&theme=radical" alt="Streak Stats" width="48%">
@@ -46,7 +50,23 @@
 
 ---
 
-### 🔥 Top Languages (on public repositories):
+## 🔥 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chesqoo&layout=compact&theme=radical" alt="Top Languages" width="50%">
 </p>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/francisco-javier-moralessp/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Chesqoo">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+🌟 *If you found something useful here, consider following me!*
