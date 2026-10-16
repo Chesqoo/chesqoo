@@ -1,7 +1,7 @@
 # Hi, I'm Javi 👋
 
 **Machine Learning Engineer & PhD researcher** at UPM SecLab in Madrid.
-I build **local LLM systems for Cyber Threat Intelligence** — agents that let analysts ask questions about threat data in plain language, served fully on-prem.
+I work on **LLM systems and agents**, mostly applied to **cybersecurity**.
 
 Background in software engineering, with a soft spot for **LLM security**.
 
@@ -14,11 +14,11 @@ Background in software engineering, with a soft spot for **LLM security**.
 
 ---
 
-## 🔭 What I'm working on
+## 🔭 What I'm into
 
-- 🧠 **PhD in AI & Cyberintelligence** — agentic LLMs and **Text-to-NoSQL** generation for CTI.
-- 📝 **Manuscript in preparation** — benchmarking LLMs for Text-to-NoSQL query generation in the CTI domain.
-- 🛡️ **CTF & Datathon @ UPM** — technical lead; cloud infra for a 100+ participant IoT-security CTF.
+- 🧠 **PhD in AI & Cyberintelligence** at UPM.
+- 🤖 **LLM agents** and **local / on-prem model serving**.
+- 🛡️ **LLM security** and **AI for cybersecurity**.
 
 ## ⚡ Highlights
 
@@ -27,7 +27,7 @@ Background in software engineering, with a soft spot for **LLM security**.
 | 🤖 **CTI assistant** | Built the conversational LLM service of a CTI platform + its **MongoDB MCP server** |
 | 🏠 **Fully local serving** | Designed the on-prem stack on **vLLM**, including air-gapped model delivery |
 | 🚀 **3.6× faster** | Re-architected the assistant as a native tool-calling agent on vLLM |
-| 🔒 **0 / 150+ attacks** | Allow-list validator for LLM-generated MongoDB queries: no malicious payload wrote data |
+| 🔒 **0 / 150+ attacks** | Allow-list validator for LLM-generated database queries: no malicious payload wrote data |
 | 🎯 **71% CTIBench** | CTI-MCQ score with a locally served 4-bit model — on par with GPT-4 |
 
 ## 📄 Research
@@ -46,11 +46,12 @@ Background in software engineering, with a soft spot for **LLM security**.
 | **MLOps & Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white) ![W&B](https://img.shields.io/badge/W&B-FFBE00?logo=weightsandbiases&logoColor=black) |
 | **Apps** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black) |
 
-## 🧪 Side projects
+## 🧪 Other things
 
 - **[Savings Calculator](https://chesqoo.github.io/savings-calculator/)** — compound interest with Spanish tax rules.
 - **[QRated](https://chesqoo.github.io/qrated/)** — free QR generator with custom logos and branding.
+- Part of the organising team of the **UPM Cybersecurity CTF & Datathon**.
 
 ---
 
-💬 Also teaching Python, ML & AI as a freelance mentor — happy to chat about **local LLMs, CTI or LLM security**.
+💬 Also teaching Python, ML & AI as a freelance mentor — happy to chat about **LLMs, agents or AI security**.
