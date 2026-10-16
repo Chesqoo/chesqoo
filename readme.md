@@ -22,7 +22,7 @@ Background in software engineering, with a soft spot for **LLM security**.
 
 ## ⚡ Highlights
 
-| | |
+| Result | What |
 |---|---|
 | 🤖 **CTI assistant** | Built the conversational LLM service of a CTI platform + its **MongoDB MCP server** |
 | 🏠 **Fully local serving** | Designed the on-prem stack on **vLLM**, including air-gapped model delivery |
@@ -32,7 +32,7 @@ Background in software engineering, with a soft spot for **LLM security**.
 
 ## 📄 Research
 
-- **[Beyond Trust: Evaluating Targeted Data Poisoning Threats in LLMs](https://oa.upm.es/84863/)** — MSc thesis, 9.0/10 · [code](https://github.com/Chesqoo/TFM)
+- **[Beyond Trust: Evaluating Targeted Data Poisoning Threats in LLMs](https://oa.upm.es/84863/)** — MSc thesis, 9.0/10 · [code](https://github.com/Chesqoo/TFM)<br>
   Targeted data poisoning on Phi-3, CodeT5 and CodeGen across domains like banking and education.
 - **[Applied Software Engineering for Cross-Platform Apps with Flutter in Small Teams](https://oa.upm.es/75690/)** — BSc thesis, 9.0/10
 
