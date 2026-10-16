@@ -20,21 +20,18 @@ Background in software engineering, with a soft spot for **LLM security**.
 - 🤖 **LLM agents** and **local / on-prem model serving**.
 - 🛡️ **LLM security** and **AI for cybersecurity**.
 
-## ⚡ Highlights
+## ⚡ What I like building
 
-| Result | What |
-|---|---|
-| 🤖 **CTI assistant** | Built the conversational LLM service of a CTI platform + its **MongoDB MCP server** |
-| 🏠 **Fully local serving** | Designed the on-prem stack on **vLLM**, including air-gapped model delivery |
-| 🚀 **3.6× faster** | Re-architected the assistant as a native tool-calling agent on vLLM |
-| 🔒 **0 / 150+ attacks** | Allow-list validator for LLM-generated database queries: no malicious payload wrote data |
-| 🎯 **71% CTIBench** | CTI-MCQ score with a locally served 4-bit model — on par with GPT-4 |
+- Assistants that let people **talk to their data** in plain language.
+- **Self-hosted LLM stacks** that don't need to phone home.
+- **Guardrails** so models can act on real systems without breaking them.
+- **Benchmarks** to see how far small, local models can actually go.
 
 ## 📄 Research
 
-- **[Beyond Trust: Evaluating Targeted Data Poisoning Threats in LLMs](https://oa.upm.es/84863/)** — MSc thesis, 9.0/10 · [code](https://github.com/Chesqoo/TFM)<br>
+- **[Beyond Trust: Evaluating Targeted Data Poisoning Threats in LLMs](https://oa.upm.es/84863/)** — MSc thesis · [code](https://github.com/Chesqoo/TFM)<br>
   Targeted data poisoning on Phi-3, CodeT5 and CodeGen across domains like banking and education.
-- **[Applied Software Engineering for Cross-Platform Apps with Flutter in Small Teams](https://oa.upm.es/75690/)** — BSc thesis, 9.0/10
+- **[Applied Software Engineering for Cross-Platform Apps with Flutter in Small Teams](https://oa.upm.es/75690/)** — BSc thesis
 
 ## 🛠️ Stack
 
